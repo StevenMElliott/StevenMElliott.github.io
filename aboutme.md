@@ -1,15 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data Scientist Student
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Steve Elliott:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I probably over-analyze everything, maybe.
+- I'm a gamer
+- I enjoy grilling meat, I really want to learn to smoke meats as soon as I get equipment.
 
-What else do you need?
+What else do you need to know?
 
 ### my history
 
